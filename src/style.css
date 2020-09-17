@@ -1,0 +1,39 @@
+.minifyMenu{
+    width: 45px;
+    height: 45px;
+    border-radius: 5px;
+}
+.white{
+    color:white;
+    font-size: 40px;
+    padding: 10px;
+    font-weight: 900;
+}
+.Communication-gra{
+    background-color: #fff000;
+    background-image: linear-gradient(to left, #fff000 0%, #ed008c 74%);
+}
+.none{
+    display: none;
+}
+.drop1>li{
+    display: none;
+}
+.minify{
+    background-image: linear-gradient(to left, #fff000 0%, #ed008c 74%);
+    padding: 10px 20px;
+    color: white;
+}
+marquee{
+    color:red;
+}
+.da{
+    background: black;
+    color: gray;
+}
+.da > #black{
+    color:white;
+    font-size: 40px;
+    padding: 10px;
+    font-weight: 900;
+}
